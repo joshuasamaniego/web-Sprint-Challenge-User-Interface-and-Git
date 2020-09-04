@@ -214,3 +214,13 @@ footer nav a {
     margin: 1%;
 
 }
+.about-boxes-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.about-boxes{
+    display:flex;
+    flex-wrap: wrap;
+    width: 45%;
+    margin: 2%;
+}
