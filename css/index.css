@@ -206,6 +206,12 @@ footer nav a {
 
 /* About Page Specific CSS */
 
+hr{
+    border: .5px dashed;
+    width: 100%;
+    margin-top: 4%;
+}
+
 .header-img-about{
     background-image:url('file:///Users/joshuasamaniego-evans/Desktop/LambdaProjects/web-Sprint-Challenge-User-Interface-and-Git/img/jumbo-about.png');
     width:100%;
@@ -223,4 +229,13 @@ footer nav a {
     flex-wrap: wrap;
     width: 45%;
     margin: 2%;
+}
+.about-boxes a {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 2% 5%;
+    margin: 1%;
+}
+.about-bottom{
+    margin: 5% 2%;
 }
